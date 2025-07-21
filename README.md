@@ -9,9 +9,9 @@
 
 ## 📊 진행 현황
 
-- ✅ 완료: `3`문제 / 76문제
+- ✅ 완료: `4`문제 / 76문제
 - 🕐 진행 중: `0`문제
-- ⏳ 미풀이: `73`문제
+- ⏳ 미풀이: `72`문제
 
 ---
 
@@ -40,7 +40,7 @@
 
 #### 🧵 Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
