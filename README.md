@@ -9,9 +9,9 @@
 
 ## 📊 진행 현황
 
-- ✅ 완료: `1`문제 / 76문제
+- ✅ 완료: `2`문제 / 76문제
 - 🕐 진행 중: `0`문제
-- ⏳ 미풀이: `75`문제
+- ⏳ 미풀이: `74`문제
 
 ---
 
@@ -20,7 +20,7 @@
 #### 🧮 Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
